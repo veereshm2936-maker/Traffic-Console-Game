@@ -1,0 +1,23 @@
+# Ignore all compiled Java class files
+*.class
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore IDE-specific folders/files
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore JARs (if you're building but don't want to track)
+*.jar
+
+# Ignore backups or OS-specific files
+*~
